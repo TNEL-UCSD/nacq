@@ -1,0 +1,13 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "easy_connector_v5_auto.brd" as of: 8/7/2014 4:20:38 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+OMNETICS-MASTER-FPGA-A,Bottom,0.600,0.630,180
+OMNETICS-MASTER-FPGA-B,Bottom,1.000,0.630,180
+OMNETICS-MASTER-FPGA-C,Bottom,1.400,0.630,180
+OMNETICS-MASTER-FPGA-D,Bottom,1.800,0.630,180
+U$1,Top,1.190,1.510,0

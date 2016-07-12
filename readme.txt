@@ -1,5 +1,15 @@
 Overview:
-Design files for a electrophysiology (ephys) recording tailored for the clinic. Our system is based on Intan technologies (intantech.com). Included in this system are:
+Design files for a electrophysiology (ephys) recording tailored for the clinic. Our system is based on Intan technologies (intantech.com). 
+
+
+
+If any of the materials are used, please cite:
+
+Hermiz, J., et al. "A clinic compatible, open source electrophysiology system." 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). IEEE, 2016.
+
+
+
+Included in this system are:
 
 -Power Isolator (nacq/pcbs/Isolation Board)
 -> Provides isolated power to Intan headstages. Can support up to 256 channels.

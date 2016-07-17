@@ -5,7 +5,7 @@ Design files for a electrophysiology (ephys) recording tailored for the clinic. 
 
 If any of the materials are used, please cite:
 
-Hermiz, J., et al. "A clinic compatible, open source electrophysiology system." 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). IEEE, 2016.
+J. Hermiz, N. Rogers, E. Kaestner, M. Ganji, D. Cleary, J. Snider, D. Barba, S. Dayeh, E. Halgren, V. Gilja "A clinic compatible, open source electrophysiology system." 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). IEEE, 2016.
 
 
 
